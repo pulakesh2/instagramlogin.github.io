@@ -134,7 +134,7 @@ body footer {
   padding-bottom: 20px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 450px) {
  .container {
     margin: 50px auto;
   }
